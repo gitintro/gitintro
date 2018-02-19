@@ -1,5 +1,5 @@
 {   "styles": {
-        "website": ""
+        "website": "mybook.css"
     },    
     "plugins": [
         "katex"
