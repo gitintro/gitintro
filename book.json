@@ -1,0 +1,9 @@
+{   "styles": {
+        "website": ""
+    },    
+    "plugins": [
+        "katex"
+    ],
+    "pluginsConfig": {
+	}
+}
